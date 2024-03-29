@@ -22,4 +22,4 @@ It contains Codes and source data for:
 
 	(a) Generate the mesh information (nodes and elements) of logic gates with different geometric parameters;
 
-	(b)Provide the keyword files (.inp file) of logic gates for FE simulations in ABAQUS/Standard.
+	(b) Provide the keyword files (.inp file) of logic gates for FE simulations in ABAQUS/Standard.
